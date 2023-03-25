@@ -12,4 +12,15 @@
 
  git push origin master
 
+=====================================
 
+Edit file
+-------
+ git add .
+
+ git status
+ 
+ git commit -m "Git-Data-Camp-Tutorials"
+
+ git push origin master
+========================================

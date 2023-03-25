@@ -1,18 +1,15 @@
 
-$ git init
+ git init
 
-$ git add .
+ git add .
 
-git commit -m "Git-Data-Camp-Tutorial"
+ git commit -m "Git-Data-Camp-Tutorial"
 
-$ git remote add origin "git@github.com:msr2royal/Git-Data-Camp-Tutorial.git"
+ git remote add origin "https://github.com/msr2royal/Git-Data-Camp-Tutorial"
+ git config --global user.name "msr2royal"
+ git config --global user.email "msr2royal@gmail.com"
+            //login into github with credentials 
 
-$ git config --global user.name "msr2royal"
-$ git config --global user.email "msr2royal@gmail.com"
-            //login into github with credentials
-
-$ git@github.com:msr2royal/PHP-Api-Mis-Angular-React.git 
-
-$ git push origin master
+ git push origin master
 
 
